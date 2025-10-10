@@ -16,7 +16,7 @@
 3.  copy and pasted the correct graphs with the correct info.
 
 ### Images
-![screenshot for my project](project 1/image1.png)
+![screenshot for my project](/image1.png)
 
 
 ### Technologies
