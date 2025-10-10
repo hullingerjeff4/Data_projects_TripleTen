@@ -15,7 +15,7 @@
 3.  copy and pasted the correct graphs with the correct info.
 
 ### Images
-
+![screenshot from my project](image1.png)
 
 ### Technologies
 * To build this app latest technologies were used, using React hooks and Redux for state management. As for Css this app uses Material UI for some parts, and the most using css grid/flex. 
