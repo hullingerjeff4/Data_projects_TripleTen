@@ -11,7 +11,7 @@
 ### Method of statements
 
 1.  Went Over all of the information and data.
-2.  Analyze what info would work better for each different genre.
+2.  Analyzed what info would work better for each different genre.
 3.  copy and pasted the correct graphs with the correct info.
 
 ### Images
