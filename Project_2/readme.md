@@ -1,7 +1,7 @@
 # BUSINESS ANALYTICS PROJECT
 
 ## Overview
-* The executive team aims to evaluate how effectively the company’s website converts product page views into purchases. To achieve this, a conversion funnel was developed to analyze user interactions and identify drop-off points throughout the purchasing process.  The analysis included building acquisition cohorts based on the month of each user’s first purchase. These cohorts were then tracked over time to measure key metrics and identify trends in user retention and purchasing behavior.
+* My objective was to evaluate how effectively the company’s website converts product page views into purchases. To achieve this, a conversion funnel was developed to analyze user interactions and identify drop-off points throughout the purchasing process.  The analysis included building acquisition cohorts based on the month of each user’s first purchase. These cohorts were then tracked over time to measure key metrics and identify trends in user retention and purchasing behavior.
 
 ### Dataset
 
