@@ -16,13 +16,5 @@
 4.  I then I calculated the first purchase date for each user who made a purchase.  These dates will be used toa ssign users to cohorts.
 5.  The last steps of the analysis was to aggregate the purchse data into cohorts and then calculate retention rates for each cohort month to month.  
 
-
-### Images
-![screenshot from my project](image1.png)
-![screenshot from my project](image2.png)
-![screenshot from my project](image3.png)
-![screenshot from my project](image4.png)
-![screenshot from my project](image5.png)
-
 ### Technologies
 * To build this Project, I used Google Sheets.  
