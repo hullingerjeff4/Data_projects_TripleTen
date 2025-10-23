@@ -19,15 +19,5 @@
 7.  I used a pivot table that orders all our top listings according to revenue.
 8.  In addition, I highlighted how much these recommended listings could earn in a year.  
 
-### Images
-![screenshot from my project](image1.png)
-![screenshot from my project](image2.png)
-![screenshot from my project](image3.png)
-![screenshot from my project](image4.png)
-![screenshot from my project](image5.png)
-![screenshot from my project](image6.png)
-![screenshot from my project](image7.png)
-![screenshot from my project](image8.png)
-
 ### Technologies
 *To build this app, I used google sheets.  
