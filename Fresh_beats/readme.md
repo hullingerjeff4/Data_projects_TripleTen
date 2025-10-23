@@ -14,9 +14,5 @@
 2.  Analyzed what info would work better for each different genre.
 3.  copy and pasted the correct graphs with the correct info.
 
-### Images
-![screenshot from my project](image1.png)
-![screenshot from my project](image2.png)
-![screenshot from my project](image3.png)
 ### Technologies
 * To build this project,  I used Google Sheets.  
