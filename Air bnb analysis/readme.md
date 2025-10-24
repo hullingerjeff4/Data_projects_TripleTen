@@ -93,3 +93,11 @@ Example:
 
 A field `top_listing` was engineered:
 
+---
+
+**Author:** Jeffrey Hullinger  
+**Role:** Data Analyst  
+**Project:** Air bnb analysis — BI Analytics Portfolio Project  
+**Date:** 2025  
+
+---
