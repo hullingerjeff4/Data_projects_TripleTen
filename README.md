@@ -3,7 +3,7 @@ Projects I worked on while attending the BI Analytics at TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Fresh Beats | The project task was to analyze different music genres for a company called Fresh Beats to see where they could improve with each genre |
+| 1 | [Fresh Beats](https://github.com/hullingerjeff4/Data_projects_TripleTen/tree/main/Fresh_beats) | The project task was to analyze different music genres for a company called Fresh Beats to see where they could improve with each genre |
 | 2 | Air bnb Analysis| The project task was to determine which neighborhoods and property sizes are most attractive for vacation rentals |
 | 3 | Venture Insights | This project demonstrates advanced SQL querying, data modeling, and business intelligence analysis skills by transforming a complex venture capital database into actionable insights for investment decision-making. It highlights proficiency in data analytics, reporting, and translating business requirements into data-driven recommendations for stakeholders.
 | 4 | E-commerce Company | The project task was to analyze raw transaction logs |
