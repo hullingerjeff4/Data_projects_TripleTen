@@ -165,3 +165,7 @@ If expanded, this analysis could also include:
 
 ---
 
+**Author:** Jeffrey Hullinger  
+**Role:** Data Analyst  
+**Project:** E-commerce company — BI Analytics Portfolio Project  
+**Date:** 2025  
